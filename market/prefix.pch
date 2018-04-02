@@ -1,0 +1,19 @@
+//
+//  prefix.pch
+//  market
+//
+//  Created by Lipeng on 2017/8/17.
+//  Copyright © 2017年 JIQI. All rights reserved.
+//
+
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+
+#import "LPKit.h"
+#import "AIConst.h"
+#import "AIHttpConst.h"
+#import "AINotifyConst.h"
+
+#endif
